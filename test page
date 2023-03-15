@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ma page Test</title>
+  </head>
+  <body>
+    <h1>Sophrologue Christelle Multon</h1>
+    <h2>Diplomée d'état</h2>
+    <h3>Membre de la chambre de sophrologie</h3>
+    <h4>Prise de rendez vous possible</h4>
+    <img src="images/firefox-icon.png" alt="Le logo firefox, qui représente un renard de feu entourant la Terre">
+    <p>Auxiliaire de puériculture dans un pôle Mère-enfant pendant 16 ans, j’ai la chance d’avoir pu travailler en salle de naissance, suite de couches, néonatalogie, pédiatrie et les dernières années plus spécifiquement en HDJ pédiatrie.
+        Après quelques années passées auprès de bébés, d’enfants, d’adolescents et de parents, tout cela associés à mon histoire de vie j’ai souhaité me former en toucher relationnel au cœur du soin, en massage bien-être et en relaxation afin de leurs apporter une écoute et une prise en charge bienveillantes.
+        </p>
+        <ul>
+            <li>Sophrologue</li>
+            <li>Praticienne en Aromathérapie</li>
+        </ul>
+        <p>En 2022, une formation en Education Thérapeutique Patient a croisé mon chemin, me permettant d’aborder l’écoute, le partage et l’entraide dans l’accompagnement des personnes atteintes de pathologies chroniques...</p>
+        <a href="https://www.instagram.com/sophro.christelle.multon/">Sophrologue diplomée d'état</a>
+  </body>
+</html>
